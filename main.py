@@ -61,4 +61,5 @@ def main():
 # Punto de entrada del script. 
 # Esto verifica si el script se está ejecutando directamente y no siendo importado desde otro lado.
 if __name__ == "__main__":
+    
     main()
